@@ -1,3 +1,7 @@
+CALCULATOR 
+
+
+
 # Lab 1 - Java Setup & GitHub Push
 
 ## Student Info
